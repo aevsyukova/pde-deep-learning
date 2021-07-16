@@ -1,4 +1,4 @@
-name: pollution_modelling
+name: harvard
 channels:
   - defaults
 dependencies:
